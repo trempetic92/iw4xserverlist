@@ -1,0 +1,1 @@
+In this folder cached index will be stored in HTML format. Cached time is 10 min and is saves under current date name
